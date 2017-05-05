@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MultiActivityApp</string>
+    <string name="create_string">Create Data</string>
+    <string name="enter_data">Enter Data for Transfer</string>
+    <string name="string_from_main">Data Transferred</string>
+    <string name="return_to_main">Transfer More Data</string>
+</resources>
